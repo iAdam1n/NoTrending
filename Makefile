@@ -1,5 +1,5 @@
+FOR_RELEASE = 1
 include theos/makefiles/common.mk
-export SDKVERSION=8.0
 ARCHS = armv7 arm64
 
 TWEAK_NAME = NoTrending

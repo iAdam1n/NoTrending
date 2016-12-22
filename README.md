@@ -4,7 +4,7 @@ Remove "trending searches" section in App Store and iTunes Store.
 ## [License](LICENSE)
 
 	NoTrending: Remove "trending searches" section in App Store and iTunes Store.
-	Copyright (C) 2015  iAdam1n
+	Copyright (C) 2015-2016  iAdam1n
 	
     This program is free software: you can redistribute it and/or modify
     it under the terms of the GNU General Public License as published by
