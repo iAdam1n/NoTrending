@@ -1,4 +1,3 @@
-FOR_RELEASE = 1
 include theos/makefiles/common.mk
 ARCHS = armv7 arm64
 
