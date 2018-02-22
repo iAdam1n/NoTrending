@@ -2,9 +2,9 @@ Package: com.iadam1n.notrending
 Name: NoTrending
 Depends: mobilesubstrate
 Pre-Depends: firmware (>=8.0)
-Version: 1.0.1
+Version: 1.1
 Architecture: iphoneos-arm
 Description: Disable trending on search for App Store and iTunes Store.
-Maintainer: iAdam1n
-Author: iAdam1n
+Maintainer: iAdam1n and andywiik
+Author: iAdam1n and andywiik
 Section: Tweaks
