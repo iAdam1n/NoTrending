@@ -1,6 +1,6 @@
 #import <version.h>
 
-%group iOS11 //iOS 11 code by AndyWiik
+%group iOS11
 @interface ThingView : UIView
 - (BOOL)isSelectable;
 @end
@@ -49,7 +49,7 @@
 %ctor {
 	if (IS_IOS_OR_NEWER(iOS_11_0) {
         %init(iOS11,AppStoreBaseSearch=objc_getClass("AppStore.BaseSearchContainer"));
-    } else if (IS_IOS_OR_NEWER(iOS_10_0) {
+    } else if (IS_IOS_OR_NEWER(iOS_10_0)) {
         %init(iOS10);
     } 
     else {
